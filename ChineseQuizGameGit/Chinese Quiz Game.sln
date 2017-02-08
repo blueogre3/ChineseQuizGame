@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8EA0D4BD-7B6B-2C8E-2CF6-25760C9D1E56}") = "Chinese Quiz Game", "Assembly-CSharp.csproj", "{FF2AD1F3-F040-6449-0D97-EE3C016756DD}"
+EndProject
+Project("{8EA0D4BD-7B6B-2C8E-2CF6-25760C9D1E56}") = "Chinese Quiz Game", "Assembly-CSharp-Editor.csproj", "{2F1E926F-3A62-E634-68E9-82FFCB3BEAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF2AD1F3-F040-6449-0D97-EE3C016756DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2AD1F3-F040-6449-0D97-EE3C016756DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2AD1F3-F040-6449-0D97-EE3C016756DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2AD1F3-F040-6449-0D97-EE3C016756DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1E926F-3A62-E634-68E9-82FFCB3BEAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1E926F-3A62-E634-68E9-82FFCB3BEAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1E926F-3A62-E634-68E9-82FFCB3BEAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1E926F-3A62-E634-68E9-82FFCB3BEAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
